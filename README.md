@@ -119,7 +119,7 @@ Updates:
 
 ### 1. Clone Repo
 
-git clone https://github.com/your-username/ares-matchmaking.git
+git clone https://github.com/ankurrajpat/ares_engine.git
 cd ares-matchmaking
 
 ### 2. Install Dependencies
